@@ -1,0 +1,4 @@
+resources/save_data.json
+.DS_Store
+/target
+*.iml
