@@ -1,0 +1,11 @@
+{
+  "globalTemp": 1.1,
+  "turnCounter": 66,
+  "currentPlayerIndex": 0,
+ "roundReached15": -1,
+ "roundReached20": -1,
+  "players": [
+    { "name": "a", "color": "#FF0000", "money": 615, "sustainabilityScore": 45, "currentPosition": 20, "isEliminated": false, "hasLoan": false },
+    { "name": "q", "color": "#008000", "money": 580, "sustainabilityScore": 5, "currentPosition": 44, "isEliminated": false, "hasLoan": false }
+  ]
+}

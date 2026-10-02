@@ -1,0 +1,13 @@
+{
+  "globalTemp": 0.0,
+  "turnCounter": 1,
+  "currentPlayerIndex": 0,
+ "roundReached15": -1,
+ "roundReached20": -1,
+  "players": [
+    { "name": "jihihnjh", "color": "#FF0000", "money": 20, "sustainabilityScore": 20, "currentPosition": 0, "isEliminated": false, "hasLoan": false },
+    { "name": "hhbhvj", "color": "#0000FF", "money": 20, "sustainabilityScore": 20, "currentPosition": 0, "isEliminated": false, "hasLoan": false },
+    { "name": "vguvcgytc", "color": "#008000", "money": 20, "sustainabilityScore": 20, "currentPosition": 0, "isEliminated": false, "hasLoan": false },
+    { "name": "gyuguyhg", "color": "#FFFF00", "money": 20, "sustainabilityScore": 20, "currentPosition": 0, "isEliminated": false, "hasLoan": false }
+  ]
+}
